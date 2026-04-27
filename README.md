@@ -38,7 +38,7 @@ npm run dev
    Typical local URL:
 
 ```text
-http://127.0.0.1:4173
+http://localhost:4173/
 ```
 
 5. Build for production:
